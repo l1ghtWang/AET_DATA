@@ -1,0 +1,5 @@
+javac Restore_benchmarkName.java
+java Restore_benchmarkName	to output benchmarkName_restored_(10~90).out
+
+
+
